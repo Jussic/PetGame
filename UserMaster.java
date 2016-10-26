@@ -68,6 +68,6 @@ public class UserMaster extends Pet {
 	myPet.petOptions();
 	System.out.println();
     
-	input.close();        
+	input.close(); 
 }
 }
